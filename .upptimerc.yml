@@ -7,8 +7,8 @@ sites:
     url: https://rdp.moonisp.dk
   - name: MoonISP Graf
     url: https://graf.moonisp.dk
-  - name: MoonISP Plex
-    url: https://plex.moonisp.dk
+  # - name: MoonISP Plex
+  #  url: https://plex.moonisp.dk
   - name: MoonISP Bitwarden
     url: https://bitwarden.moonisp.dk 
   - name: MoonISP Docker
