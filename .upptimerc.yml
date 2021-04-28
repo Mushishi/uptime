@@ -5,10 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: MoonISP RDP
     url: https://rdp.moonisp.dk
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: MoonISP Graf
+    url: https://graf.moonisp.dk
+  - name: MoonISP Plex
+    url: https://plex.moonisp.dk
 
 
 status-website:
