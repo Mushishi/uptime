@@ -9,13 +9,16 @@ sites:
     url: https://graf.moonisp.dk
   - name: MoonISP Plex
     url: https://plex.moonisp.dk
-
+  - name: MoonISP Bitwarden
+    url: https://bitwarden.moonisp.dk 
+  - name: MoonISP Docker
+    url: https://docker.moonisp.dk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /uptime
+  cname: git.moonisp.dk
+  # baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
   introTitle: "**MoonISP Uptime**"
