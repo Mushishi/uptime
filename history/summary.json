@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
-    "time": 1090,
-    "timeDay": 840,
-    "timeWeek": 871,
+    "time": 1089,
+    "timeDay": 1080,
+    "timeWeek": 905,
     "timeMonth": 1030,
-    "timeYear": 1090,
+    "timeYear": 1089,
     "dailyMinutesDown": {
       "2021-05-03": 363
     }
@@ -25,18 +25,19 @@
     "icon": "https://favicons.githubusercontent.com/graf.moonisp.dk",
     "slug": "moon-isp-graf",
     "status": "down",
-    "uptime": "99.47%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.47%",
-    "time": 1512,
-    "timeDay": 10162,
-    "timeWeek": 3296,
-    "timeMonth": 1698,
-    "timeYear": 1512,
+    "uptime": "99.05%",
+    "uptimeDay": "78.47%",
+    "uptimeWeek": "96.92%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.05%",
+    "time": 1550,
+    "timeDay": 11534,
+    "timeWeek": 3636,
+    "timeMonth": 1786,
+    "timeYear": 1550,
     "dailyMinutesDown": {
-      "2021-06-18": 0,
+      "2021-06-19": 40,
+      "2021-06-18": 270,
       "2021-05-03": 363,
       "2021-04-29": 32
     }
@@ -52,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
-    "time": 890,
-    "timeDay": 739,
-    "timeWeek": 705,
-    "timeMonth": 827,
-    "timeYear": 890,
+    "time": 886,
+    "timeDay": 685,
+    "timeWeek": 706,
+    "timeMonth": 823,
+    "timeYear": 886,
     "dailyMinutesDown": {
       "2021-05-03": 355
     }
@@ -73,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 1003,
-    "timeDay": 857,
-    "timeWeek": 856,
-    "timeMonth": 961,
+    "timeDay": 996,
+    "timeWeek": 880,
+    "timeMonth": 963,
     "timeYear": 1003,
     "dailyMinutesDown": {
       "2021-05-03": 355
