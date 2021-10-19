@@ -5,14 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: MoonISP RDP
     url: https://rdp.moonisp.dk
-  - name: MoonISP Graf
-    url: https://graf.moonisp.dk
+  - name: MoonISP Mail
+    url: https://mail.moonisp.dk
   # - name: MoonISP Plex
   #  url: https://plex.moonisp.dk
-  - name: MoonISP Bitwarden
-    url: https://bitwarden.moonisp.dk 
-  - name: MoonISP Docker
-    url: https://docker.moonisp.dk
+  - name: MoonISP RT
+    url: https://rt01.moonisp.dk 
+  - name: MoonISP Cards
+    url: https://cards.moonisp.dk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
