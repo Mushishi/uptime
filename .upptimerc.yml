@@ -9,8 +9,8 @@ sites:
     url: https://mail.moonisp.dk
   # - name: MoonISP Plex
   #  url: https://plex.moonisp.dk
-  - name: MoonISP RT
-    url: https://rt01.moonisp.dk 
+  # - name: MoonISP RT
+  #  url: https://rt01.moonisp.dk 
   - name: MoonISP Cards
     url: https://cards.moonisp.dk
 
