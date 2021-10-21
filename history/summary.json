@@ -4,19 +4,19 @@
     "url": "https://rdp.moonisp.dk",
     "icon": "https://favicons.githubusercontent.com/rdp.moonisp.dk",
     "slug": "moon-isp-rdp",
-    "status": "down",
-    "uptime": "95.58%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "90.13%",
-    "uptimeMonth": "91.13%",
-    "uptimeYear": "95.58%",
-    "time": 931,
-    "timeDay": 1805,
-    "timeWeek": 1019,
-    "timeMonth": 869,
-    "timeYear": 931,
+    "status": "up",
+    "uptime": "95.57%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "89.97%",
+    "uptimeMonth": "91.09%",
+    "uptimeYear": "95.57%",
+    "time": 975,
+    "timeDay": 5457,
+    "timeWeek": 1754,
+    "timeMonth": 1119,
+    "timeYear": 975,
     "dailyMinutesDown": {
-      "2021-10-21": 0,
+      "2021-10-21": 17,
       "2021-10-18": 994,
       "2021-09-26": 1238,
       "2021-09-25": 1440,
@@ -54,9 +54,9 @@
     "url": "https://cards.moonisp.dk",
     "icon": "https://favicons.githubusercontent.com/cards.moonisp.dk",
     "slug": "moon-isp-cards",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -65,6 +65,8 @@
     "timeWeek": 1173,
     "timeMonth": 1173,
     "timeYear": 1173,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-21": 0
+    }
   }
 ]
